@@ -1,0 +1,14 @@
+- type: entity
+  parent: ShadowGrappleProjectile
+  id: XenoTailProjectile
+  name: Tail Stab
+  components:
+  - type: Sprite
+    noRot: false
+    sprite: _Trauma/Mobs/Xenos/xenotail.rsi
+    layers:
+    - state: xenoblade
+  - type: ShadowGrappleProjectile
+    damageOnHit:
+      types:
+        Blunt: 15

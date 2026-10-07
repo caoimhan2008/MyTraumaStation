@@ -1,0 +1,14 @@
+- type: entity
+  parent: ShadowGrappleAction
+  id: XenoTailAction
+  name: Tail Stab
+  components:
+  - type: Sprite
+    sprite: _Trauma/Mobs/Xenos/xenotail.rsi
+    state: xenoblade
+  - type: EntityTargetAction
+    event: !type:ShootGrappleEvent
+      projectileProto: XenoTailProjectile
+      jointSprite:
+        sprite: _Trauma/Mobs/Xenos/xenotail.rsi
+        state: xenotailstab
