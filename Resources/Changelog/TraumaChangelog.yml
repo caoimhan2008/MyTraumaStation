@@ -15654,3 +15654,14 @@ Entries:
   id: 1704
   time: '2026-10-10T20:17:06.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/4946
+- author: deltanedas
+  changes:
+  - type: Fix
+    message: Fixed soul shards not being able to use the cult hivemind.
+  - type: Fix
+    message: Fixed mimes being eligible for blood cult roundstart.
+  - type: Tweak
+    message: Cult constructs and soul shards now have a random adjective like mice.
+  id: 1705
+  time: '2026-10-10T20:23:29.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4982
