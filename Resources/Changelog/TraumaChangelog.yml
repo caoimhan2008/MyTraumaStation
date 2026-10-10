@@ -15631,3 +15631,12 @@ Entries:
   id: 1701
   time: '2026-10-09T22:06:01.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/4971
+- author: deltanedas
+  changes:
+  - type: Remove
+    message: >-
+      Removed rad collectors, have to use tesla on maps that haven't been
+      updated.
+  id: 1702
+  time: '2026-10-10T19:15:37.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4980
