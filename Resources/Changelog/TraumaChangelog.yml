@@ -15640,3 +15640,10 @@ Entries:
   id: 1702
   time: '2026-10-10T19:15:37.0000000+00:00'
   url: https://github.com/Trauma-Station/Trauma-Station/pull/4980
+- author: deltanedas
+  changes:
+  - type: Tweak
+    message: Posibrains and MMIs can no longer snitch on the binary channel.
+  id: 1703
+  time: '2026-10-10T20:04:46.0000000+00:00'
+  url: https://github.com/Trauma-Station/Trauma-Station/pull/4981
